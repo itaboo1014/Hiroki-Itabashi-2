@@ -1,11 +1,11 @@
 header{
-  background-image: url("8754E526-CD4C-4095-A4FC-8BB9E758BBF9.jpeg")
-  background-size: contain;
-  
+  background-color:gray;
+  opacity:0.3;
+  height:70px;
 }
 
 header h1{
-  
+  font-size:25px;
 }
 
 .sns{
