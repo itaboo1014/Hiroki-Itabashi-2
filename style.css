@@ -3,6 +3,25 @@ header{
   background-size: contain;
 }
 
+.sns{
+  font-size:50px;
+}
+
+.youtube{
+  color:red;
+}
+
+.instagram{
+  color:orange;
+}
+
+.twitter{
+  color:cyan;
+}
+
+
+
+
 main{
 
 }
