@@ -8,9 +8,17 @@ header{
 
 }
 
+.sns{
+  float:left;
+  text-align:right;
+  font-size:70px;
+  
+}
+
 main{
   background-image:url(291916D1-C0B4-4076-972E-C39EF528F63E.jpeg);
   background-size: 100%;
+  object-fit:cover;
   width:100%;
   height:100%;
 }
