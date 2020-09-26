@@ -1,53 +1,37 @@
 header{
   background-color:gray;
-  opacity:0.3;
-  height:70px;
+  height:80px;
+  width:100%;
 }
-
-header h1{
-  opacity:1.0;
-  font-size:25px;
-}
-
-.sns{
-  opacity:1.0;
-  font-size:50px;
-  text-align:right;
-  float:left;
-}
-
-.youtube a{
-  color:red;
-}
-
-.instagram a{
-  color:orange;
-}
-
-.twitter a{
-  color:cyan;
-}
-
-
-
 
 main{
+  background-image:url(291916D1-C0B4-4076-972E-C39EF528F63E.jpeg);
+  background-size: contain;
+}
+
+.link-contents{
+
+}
+
+.link{
+
+}
+
+.kizai{
 
 }
 
 schedule{
-  width:70%;
-  text-align:center;
+
 }
 
 blog{
-  width:70%;
-  text-align:center;
+
 }
+
+
+
 
 footer{
-  text-align:center;
+  textalign:center:
 }
-
-
-
