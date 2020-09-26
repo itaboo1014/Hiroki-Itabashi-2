@@ -10,6 +10,7 @@ header{
 }
 
 .sns{
+  text:inline;
   float:right;
   text-align:left;
   font-size:70px;
