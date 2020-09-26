@@ -5,12 +5,12 @@ header{
 }
 
 header h1{
-  opacity:1;
+  opacity:1.0;
   font-size:25px;
 }
 
 .sns{
-  opacity:1;
+  opacity:1.0;
   font-size:50px;
   text-align:right;
   float:left;
