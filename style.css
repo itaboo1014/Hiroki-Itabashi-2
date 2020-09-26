@@ -2,12 +2,14 @@ header{
   background-color:rgba(200,200,200,0.5);
   height:100px;
   width:100%;
+  z-index:10;
 }
 
 .header-contents{
   width:80%;
   margin:0 auto;
 }
+  
 
 .sns{
   text:inline;
