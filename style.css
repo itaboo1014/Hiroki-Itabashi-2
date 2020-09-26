@@ -5,11 +5,12 @@ header{
 }
 
 .header-contents{
-
+  width:80%;
+  margin:0 auto;
 }
 
 .sns{
-  float:left;
+  float:right;
   text-align:right;
   font-size:70px;
   
