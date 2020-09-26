@@ -11,7 +11,8 @@ header{
 main{
   background-image:url(291916D1-C0B4-4076-972E-C39EF528F63E.jpeg);
   background-size: 100%;
-  
+  width:100%;
+  height:1000px;
 }
 
 .link-contents{
