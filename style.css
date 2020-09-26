@@ -11,20 +11,20 @@ header{
 
 .sns{
   float:right;
-  text-align:right;
+  text-align:left;
   font-size:70px;
   
 }
 
-.youtube{
+.youtube a{
   color:red;
 }
 
-.instagram{
+.instagram a{
   color:orange;
 }
 
-.twitter{
+.twitter a{
   color:lightblue;
 }
 
