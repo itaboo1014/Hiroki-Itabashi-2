@@ -9,7 +9,10 @@ header{
   width:80%;
   margin:0 auto;
 }
-  
+ 
+.header-contents h1{
+  text-align:left;
+}
 
 .sns{
   text-align:right;
@@ -17,17 +20,17 @@ header{
 }
 
 .youtube a{
-  float:left;
+  float:right;
   color:red;
 }
 
 .instagram a{
-  float:left;
+  float:right;
   color:orange;
 }
 
 .twitter a{
-  float:left;
+  float:right;
   color:lightblue;
 }
 
