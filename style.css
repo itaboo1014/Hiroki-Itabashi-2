@@ -22,16 +22,19 @@ header{
 .youtube a{
   float:right;
   color:red;
+  padding:30px;
 }
 
 .instagram a{
   float:right;
   color:orange;
+  padding:30px;
 }
 
 .twitter a{
   float:right;
   color:lightblue;
+  padding:30px;
 }
 
 main{
