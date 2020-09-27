@@ -8,7 +8,7 @@
 
 .header-contents{
   width:80%;
-  text-align:center;
+  margin:0 auto;
 }
  
 .header-contents h1{
@@ -23,19 +23,19 @@
 .youtube a{
   float:right;
   color:red;
-  padding:30px;
+  margin:30px;
 }
 
 .instagram a{
   float:right;
   color:orange;
-  padding:30px;
+  margin:30px;
 }
 
 .twitter a{
   float:right;
   color:lightblue;
-  padding:30px;
+  margin:30px;
 }
 
 main{
