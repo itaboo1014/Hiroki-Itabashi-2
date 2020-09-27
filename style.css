@@ -45,7 +45,7 @@ main{
   height:100%;
 }
 
-main-contents{
+.main-contents{
   width:70%;
   margin:0 auto;
 }
@@ -66,12 +66,12 @@ main-contents{
 
 }
 
-schedule{
+.schedule{
   width:70%;
   margin:0 auto;
 }
 
-blog{
+.blog{
   width:70%;
   margin:0 auto;
 }
