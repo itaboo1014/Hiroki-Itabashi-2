@@ -12,22 +12,23 @@ header{
   
 
 .sns{
-  text:inline;
-  float:right;
-  text-align:left;
+  text-align:right;
   font-size:70px;
   
 }
 
 .youtube a{
+  
   color:red;
 }
 
 .instagram a{
+  float:left;
   color:orange;
 }
 
 .twitter a{
+  float:left;
   color:lightblue;
 }
 
