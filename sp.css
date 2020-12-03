@@ -155,17 +155,18 @@
         padding: 20px 0px 70px 0px;
     }
     #introduction-contents h2 {
-        font-size: 5vw;
+        font-size: 4.5vw;
+        font-weight: 700;
     }
     #introduction-contents h3 {
         text-align: left;
-        font-size: 3vw;
+        font-size: 3.5vw;
         font-weight: 700;
         margin: 50% 0% 0% 10%;
     }
     #introduction-contents p {
         text-align: left;
-        font-size: 2.5vw;
+        font-size: 3vw;
         font-weight: 700;
         margin: 0% 0% 0% 10%;
     }
@@ -187,12 +188,12 @@
     }
     #schedule-contents h2 {
         font-size: 20px;
-        font-weight: 700;
+        font-weight: 800;
         padding-bottom: 50px;
     }
     #schedule-contents p {
         font-size: 12px;
-        font-weight: 700;
+        font-weight: 800;
     }
 
     #blog {
@@ -225,8 +226,8 @@
         margin: 50px 0px;
     }
     .blog-content .blog-text{
-        font-size: 12px;
-        font-weight: 500;
+        font-size: 15px;
+        font-weight: 800;
         text-align: left;
         display: none;
         padding: 20px 0px 50px 0px;
